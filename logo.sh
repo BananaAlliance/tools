@@ -2,8 +2,8 @@
 
 function colors {
   YELLOW="\e[132m"
-  RED="\e[139m"
-  NORMAL="\e[0m"
+  BLACK="\e[139m"
+  ENDCOLOR="\e[0m"
 }
 
 colors
