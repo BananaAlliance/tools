@@ -1,7 +1,7 @@
 #!/bin/bash
 
-YELLOW="\e[132m"
-BLACK="\e[139m"
+YELLOW="\e[33m"
+BLACK="\e[30m"
 ENDCOLOR="\e[0m"
 
 echo -e "${YELLOW}######                                           #                                               ${ENDCOLOR}"
